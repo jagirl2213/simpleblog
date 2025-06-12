@@ -2,6 +2,8 @@
 
 A lightweight, self-hosted CMS for blogging, inspired by WordPress but drastically more lightweight. Features a modern, responsive UI, flat-file or SQLite storage, and no third-party dependencies by default.
 
+This project is a minimalist, modular, and accessible PHP-based CMS for blogging. Use semantic HTML5, modern CSS, and vanilla JS. Prioritize clean, readable, and maintainable code. All content is stored in flat files or SQLite for persistence. No third-party dependencies unless optional.
+
 ## Features
 - SEO-optimized, semantic HTML5, Open Graph, clean URLs
 - Mobile-responsive, accessible, and modern UI
